@@ -1,0 +1,40 @@
+{
+  "Book": "Unvergessliches Chinesisch",
+  "lesson1": {
+    "1": {
+      "en": "you",
+      "pi": "ni",
+      "cn": "你"
+    },
+    "2": {
+      "en": "good",
+      "pi": "hao",
+      "cn": "好"
+    },
+    "3": {
+      "en": "name: li",
+      "pi": "li",
+      "cn": "李"
+    },
+    "4": {
+      "en": "me",
+      "pi": "wo",
+      "cn": "我"
+    },
+    "5": {
+      "en": "beeing",
+      "pi": "shi",
+      "cn": "是"
+    },
+    "6": {
+      "en": "name: qian",
+      "pi": "qian",
+      "cn": "嵌"
+    },
+    "7": {
+      "en": "this",
+      "pi": "zhe",
+      "cn": "这"
+    },
+  }
+}
