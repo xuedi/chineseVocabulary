@@ -62,6 +62,78 @@
       "en": "and you?",
       "pi": "ni ne",
       "cn": "你呢"
+    },
+    "6": {
+      "en": "father",
+      "pi": "baba",
+      "cn": "爸爸"
+    },
+    "7": {
+      "en": "mother",
+      "pi": "mama",
+      "cn": "妈妈"
+    },
+    "8": {
+      "en": "he",
+      "pi": "ta",
+      "cn": "他"
+    },
+    "9": {
+      "en": "she",
+      "pi": "ta",
+      "cn": "她"
+    },
+    "10": {
+      "en": "your mother",
+      "pi": "ni mama",
+      "cn": "你妈妈"
+    },
+    "11": {
+      "en": "your father",
+      "pi": "ni baba",
+      "cn": "你爸爸"
+    }
+  },
+  "lesson3": {
+    "1": {
+      "en": "germanz",
+      "pi": "deguo",
+      "cn": "德国"
+    },
+    "2": {
+      "en": "people",
+      "pi": "ren",
+      "cn": "人"
+    },
+    "3": {
+      "en": "german people",
+      "pi": "de guo ren",
+      "cn": "德国人"
+    },
+    "4": {
+      "en": "beeing",
+      "pi": "shi",
+      "cn": "是"
+    },
+    "5": {
+      "en": "center",
+      "pi": "zhong",
+      "cn": "中"
+    },
+    "6": {
+      "en": "china",
+      "pi": "zhong guo",
+      "cn": "中国"
+    },
+    "7": {
+      "en": "chinese",
+      "pi": "zhong guo ren",
+      "cn": "中国人"
+    },
+    "8": {
+      "en": "not",
+      "pi": "bu",
+      "cn": "不"
     }
   }
 }
