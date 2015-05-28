@@ -35,6 +35,33 @@
       "en": "this",
       "pi": "zhe",
       "cn": "这"
+    }
+  },
+  "lesson2": {
+    "1": {
+      "en": "question word",
+      "pi": "ma",
+      "cn": "吗"
     },
+    "2": {
+      "en": "very",
+      "pi": "hen",
+      "cn": "很谢谢也你呢"
+    },
+    "3": {
+      "en": "thanks",
+      "pi": "xiexie",
+      "cn": "谢谢也你呢"
+    },
+    "4": {
+      "en": "too",
+      "pi": "ye",
+      "cn": "也你呢"
+    },
+    "5": {
+      "en": "and you?",
+      "pi": "ni ne",
+      "cn": "你呢"
+    }
   }
 }
