@@ -3,37 +3,37 @@
   "lesson1": {
     "1": {
       "en": "you",
-      "pi": "ni",
+      "pi": "nǐ",
       "cn": "你"
     },
     "2": {
       "en": "good",
-      "pi": "hao",
+      "pi": "hǎo",
       "cn": "好"
     },
     "3": {
       "en": "name: li",
-      "pi": "li",
+      "pi": "lǐ",
       "cn": "李"
     },
     "4": {
       "en": "me",
-      "pi": "wo",
+      "pi": "wǒ",
       "cn": "我"
     },
     "5": {
       "en": "beeing",
-      "pi": "shi",
+      "pi": "shì",
       "cn": "是"
     },
     "6": {
       "en": "name: qian",
-      "pi": "qian",
+      "pi": "qiàn",
       "cn": "嵌"
     },
     "7": {
       "en": "this",
-      "pi": "zhe",
+      "pi": "zhè",
       "cn": "这"
     }
   },
@@ -45,94 +45,94 @@
     },
     "2": {
       "en": "very",
-      "pi": "hen",
-      "cn": "很谢谢也你呢"
+      "pi": "hěn",
+      "cn": "很"
     },
     "3": {
       "en": "thanks",
-      "pi": "xiexie",
-      "cn": "谢谢也你呢"
+      "pi": "xièxie",
+      "cn": "谢谢"
     },
     "4": {
       "en": "too",
-      "pi": "ye",
-      "cn": "也你呢"
+      "pi": "yě",
+      "cn": "也"
     },
     "5": {
       "en": "and you?",
-      "pi": "ni ne",
+      "pi": "nǐ ne",
       "cn": "你呢"
     },
     "6": {
       "en": "father",
-      "pi": "baba",
+      "pi": "bàba",
       "cn": "爸爸"
     },
     "7": {
       "en": "mother",
-      "pi": "mama",
+      "pi": "māma",
       "cn": "妈妈"
     },
     "8": {
       "en": "he",
-      "pi": "ta",
+      "pi": "tā",
       "cn": "他"
     },
     "9": {
       "en": "she",
-      "pi": "ta",
+      "pi": "tā",
       "cn": "她"
     },
     "10": {
       "en": "your mother",
-      "pi": "ni mama",
+      "pi": "nǐ māma",
       "cn": "你妈妈"
     },
     "11": {
       "en": "your father",
-      "pi": "ni baba",
+      "pi": "nǐ bàba",
       "cn": "你爸爸"
     }
   },
   "lesson3": {
     "1": {
       "en": "germanz",
-      "pi": "deguo",
+      "pi": "déguó",
       "cn": "德国"
     },
     "2": {
       "en": "people",
-      "pi": "ren",
+      "pi": "rén",
       "cn": "人"
     },
     "3": {
       "en": "german people",
-      "pi": "de guo ren",
+      "pi": "dé guó rén",
       "cn": "德国人"
     },
     "4": {
       "en": "beeing",
-      "pi": "shi",
+      "pi": "shì",
       "cn": "是"
     },
     "5": {
       "en": "center",
-      "pi": "zhong",
+      "pi": "zhōng",
       "cn": "中"
     },
     "6": {
       "en": "china",
-      "pi": "zhong guo",
+      "pi": "zhōng guó",
       "cn": "中国"
     },
     "7": {
       "en": "chinese",
-      "pi": "zhong guo ren",
+      "pi": "zhōng guó rén",
       "cn": "中国人"
     },
     "8": {
       "en": "not",
-      "pi": "bu",
+      "pi": "bù",
       "cn": "不"
     }
   }
